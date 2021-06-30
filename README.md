@@ -13,4 +13,4 @@ Clone and `npm install`
 
 ## Build & Run
 
-`mkdir dist && npm build && npm start`
+`npm run build && npm start`
