@@ -1,6 +1,6 @@
 # Babel Typescript Express Pug Starter Code
 
-Webpack based starter code that I often use for my own web projects.
+Starter code that I often use for my own web projects.
 
 ## Version
 
